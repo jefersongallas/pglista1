@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (6A.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  Source.cpp
+C:\Users\Jéferson\Documents\Projetos\pglista1\6D\HelloTriangle\Source.cpp(226,2): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+  HelloTriangle.vcxproj -> C:\Users\Jéferson\Documents\Projetos\pglista1\6D\Debug\6D.exe
