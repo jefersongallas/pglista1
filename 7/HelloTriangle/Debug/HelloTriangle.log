@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Jéferson\Documents\Projetos\pglista1\7\HelloTriangle\Source.cpp(24,31): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Jéferson\Documents\Projetos\pglista1\7\HelloTriangle\Source.cpp(228,18): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  HelloTriangle.vcxproj -> C:\Users\Jéferson\Documents\Projetos\pglista1\7\Debug\7.exe
